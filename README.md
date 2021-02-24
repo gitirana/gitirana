@@ -1,6 +1,6 @@
 **Thayná Luiza Gitirana**
 
-*Passionate about teaching, learning and solving challenges.*
+*Passionate about teaching, learning and solving challenges.* 💜
 
 
 * Web & mobile developer with React, Node and React Native 👩🏽‍💻
