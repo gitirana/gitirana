@@ -15,3 +15,5 @@
 [![Gmail](https://img.shields.io/badge/-thaynalgc@gmail.com-44475A?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:thaynalgc@gmail.com)
 
 ![Thayna's github stats](https://github-readme-stats.vercel.app/api?username=gitirana&show_icons=true&hide=issues&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitirana&&hide=java&theme=dracula&layout=compact)
