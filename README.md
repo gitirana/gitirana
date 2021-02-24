@@ -1,13 +1,13 @@
-### Thayná Luiza Gitirana
-#### Passionate about teaching, learning and solving challenges. 
+**Thayná Luiza Gitirana**
+*Passionate about teaching, learning and solving challenges.*
 
 
-* Web & mobile developer with React, Node and React Native
-* Currently working as a full-stack web developer with Angular and NodeJS using Typescript 
-* UX/UI enthusiast
+* Web & mobile developer with React, Node and React Native 👩🏽‍💻
+* Currently working as a full-stack web developer with Angular and NodeJS using Typescript 🦸🏽‍♀️
+* UX/UI enthusiast 🎨
 * @Rocketseat Alumni 🚀
 
-### Find me!
+### Find me! 🤟🏽
 
 [![Linkedin](https://img.shields.io/badge/Thayná%20Gitirana-44475A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/gitirana-9328a116b)
 [![Medium](https://img.shields.io/badge/@thaynagitirana-44475A?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@thaynagitirana)
