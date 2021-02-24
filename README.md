@@ -10,11 +10,11 @@
 
 ### Find me!
 
-[![Linkedin](https://img.shields.io/badge/Thayná%20Gitirana-232323?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/gitirana-9328a116b)
-[![Instagram](https://img.shields.io/badge/@thaynagitiranac-232323?style=flat-square&logo=instagram&logoColor=FFFFFF)](https://instagram.com/thaynagitiranac)
-[![Medium](https://img.shields.io/badge/@thaynagitirana-232323?style=flat-square&logo=medium&logoColor=FFFFFF)](https://medium.com/@thaynagitirana)
+[![Linkedin](https://img.shields.io/badge/Thayná%20Gitirana-232323?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/gitirana-9328a116b)
 
-[![Gmail](https://img.shields.io/badge/-thaynalgc@gmail.com-%231C1C1C?style=flat-square&logo=Gmail)](mailto:thaynalgc@gmail.com)
+[![Medium](https://img.shields.io/badge/@thaynagitirana-232323?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@thaynagitirana)
+
+[![Gmail](https://img.shields.io/badge/-thaynalgc@gmail.com-232323?style=for-the-badge&logo=Gmail)](mailto:thaynalgc@gmail.com)
 
 ![Thayna's github stats](https://github-readme-stats.vercel.app/api?username=gitirana&count_private=true&show_icons=true&hide=contribs,issues&theme=radical) 
 
