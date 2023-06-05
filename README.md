@@ -5,7 +5,7 @@
 
 * Web & mobile developer with React, Node and React Native 👩🏽‍💻
 * Currently working as a full-stack web developer with Angular and NodeJS using Typescript 🦸🏽‍♀️
-* UX/UI enthusiast 🎨
+* UX/UI designer 🎨
 * @Rocketseat Alumni 🚀
 
 ### Find me! 🤟🏽
