@@ -1,17 +1,36 @@
-**Thayná Luiza Gitirana**
+# Tauã Gitirana
 
-*Passionate about teaching, learning and solving challenges.* 💜
+Software Engineer  
+React Native • React • Next.js • Node.js  
 
+Recife, Brazil  
+tauagitirana@gmail.com  
 
-* Web & mobile developer with Angular, React, Node and React Native 👩🏽‍💻
-* Currently working as a full-stack web developer with Angular and NodeJS using Typescript 🦸🏽‍♀️
-* UX/UI designer 🎨
-* @Rocketseat Alumni 🚀
+---
 
-### Find me! 🤟🏽
+## About
 
-[![Linkedin](https://img.shields.io/badge/Thayná%20Gitirana-44475A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/gitirana-9328a116b)
-[![Gmail](https://img.shields.io/badge/-thaynalgc@gmail.com-44475A?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:thaynalgc@gmail.com)
+Front-end and cross-platform focused Software Engineer with experience leading mobile and web development initiatives.
 
-![Thayna's github stats](https://github-readme-stats.vercel.app/api?username=gitirana&show_icons=true&hide=issues&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitirana&&hide=java&theme=dracula&layout=compact)
+Strong background building scalable applications with React Native and Next.js, contributing to architecture decisions, code quality, and delivery planning.
+
+---
+
+## Core Stack
+
+- React Native
+- React / Next.js
+- Node.js / NestJS
+- PostgreSQL
+- TailwindCSS
+
+---
+
+## What I Do
+
+- Build performant cross-platform mobile apps  
+- Develop modern web applications  
+- Design clean, maintainable front-end architectures  
+- Collaborate in product-driven, agile environments  
+
+---
